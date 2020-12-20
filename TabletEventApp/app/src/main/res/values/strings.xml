@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tablet Event App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgSail">Hiking Image</string>
+    <string name="txtTitle">Enhance Your Chance: MLIS Career Day 2020</string>
+    <string name="txtDescription">How do you feel about your resume? Are you ready to apply for that dream job? Join us for Enhance Your Chance Week… a week of events to help you prepare for your career! </string>
+    <string name="btnDate">Select a Date to Meet an Advisor </string></resources>
